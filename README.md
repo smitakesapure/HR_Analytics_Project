@@ -6,7 +6,6 @@ This project focuses on analyzing employee attrition and workforce dynamics to p
 
 ### Key Objectives:
 - Analyze employee attrition and identify key drivers.
-- Predict at-risk employees using statistical and machine learning models.
 - Create dashboards to visualize workforce metrics.
 
 ## Project Structure
